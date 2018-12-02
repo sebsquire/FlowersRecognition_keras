@@ -19,7 +19,5 @@ Modules:
 Info on residual layers:
     ResNet-50:
         - Deep Residual Learning for Image Recognition - https://arxiv.org/pdf/1512.03385.pdf
-    ResNeXt-50 32x4d
-        - Aggregated Residual Transformations for Deep Neural Networks - https://arxiv.org/pdf/1611.05431.pdf
 
 Python 3.6.7, Tensorflow 1.12.0, Keras 2.2.4
