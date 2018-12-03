@@ -47,7 +47,7 @@ else:
     raise Exception('Please retry and type L or P')
 
 '''
-4321 images are now:
+Images are now:
 IMG_SIZE*IMG_SIZE*RGB attached to one hot class label flower type and ordered randomly
 Data is comprised of a list containing: [0]: image data, [1]: class label
 '''
