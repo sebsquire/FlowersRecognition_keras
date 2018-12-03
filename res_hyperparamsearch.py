@@ -7,8 +7,6 @@ Training is also noticeably quicker with residual layers although overfit was pr
 Info on residual layers:
     ResNet-50:
         - Deep Residual Learning for Image Recognition - https://arxiv.org/pdf/1512.03385.pdf
-    ResNeXt-50 32x4d
-        - Aggregated Residual Transformations for Deep Neural Networks - https://arxiv.org/pdf/1611.05431.pdf
 
 To run this you will need to change:
  - directory of image_folders_dir - point it to the folder containing all flower type folders
