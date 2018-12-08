@@ -1,5 +1,5 @@
 # FlowersRecognition_keras
-Multi-class Image Classification using CNN (Flower Types) (Keras, Tensorflow, OpenCV) 
+Multi-class Image Classification using CNN (Flower Types) (Keras, Tensorflow-GPU, OpenCV) 
 Dataset available at: https://www.kaggle.com/alxmamaev/flowers-recognition
 
 Includes:
